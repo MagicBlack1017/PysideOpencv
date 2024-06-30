@@ -11,9 +11,8 @@
 
 #### 安装教程
 
-Windows下激活.venv中的虚拟环境然后运行main.py即可。
-
-Linux因为没有requirements.txt，所以得手动装一下依赖。
+使用 venv 创建虚拟环境
+然后使用 requirements.txt 安装所需的库
 
 #### 使用说明
 
